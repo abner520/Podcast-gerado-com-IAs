@@ -38,3 +38,5 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `Gemini`
+
+⌨️ com ❤️ por [Abner Neyeska](https://github.com/abner520/Abner-Neyeska)
