@@ -28,7 +28,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Notion Template](https://www.notion.so/Estudio-de-gera-o-de-Podcast-com-IAs-2121a1dee1194c0a93128344a21d3c54?pvs=4)
+- [Notion Template Abner](https://flashy-chameleon-281.notion.site/Estudio-de-gera-o-de-Podcast-com-foco-em-Inteligencia-Artificial-2121a1dee1194c0a93128344a21d3c54?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 ## 🛠️ Instruções de execução
